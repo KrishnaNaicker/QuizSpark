@@ -1,6 +1,6 @@
 # QuizSpark - Adaptive Quiz Application
 
-![QuizSpark Logo]
+![QuizSpark Logo](/assests/logo.png)
 
 ## Overview
 
