@@ -43,18 +43,6 @@ QuizSpark is an adaptive quiz application that challenges users with questions t
 
 3. Open `index.html` in your browser
 
-### Local Development
-
-For the best development experience, use a local development server:
-
-```bash
-# Using Python 3
-python -m http.server
-
-# Or with Node.js
-npx serve
-```
-
 ## How to Use
 
 1. Select a topic from the main screen
@@ -91,9 +79,6 @@ QuizSpark uses the [Open Trivia Database API](https://opentdb.com/api_config.php
 - Timed quiz mode
 - Social sharing of results
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
